@@ -1,0 +1,90 @@
+#cadre{
+    width: 50%;
+    height: 800px;
+    background-color: #4a9dc7;
+    border: #080707 solid 3px;
+    margin-left: 25%;
+}
+h1{
+text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+}
+.tailleMatrice{
+    background-color: white;
+    width: 50%;
+    height: 5%;
+    margin-left: 25%;
+}
+.gauche{
+    width: 20%;
+    height: 40px;
+    background-color: #035178;
+    /* border-bottom-left-radius: 20%;
+    border-top-left-radius: 20%; */
+}
+.input{
+    width: 80%;
+    background-color: white;
+    height: 40px;
+    float: right;
+    margin-top: -13%;
+    /* border-bottom-right-radius: 20%;
+    border-top-right-radius: 20%; */
+}
+.selectC1{
+    background-color: white;
+    width: 50%;
+    height: 5%;
+    margin-left: 25%;
+    margin-right: 10%;
+    /* border-radius: 15px; */
+}
+.couleur{
+    width: 80%;
+    background-color: white;
+    height: 40px;
+    float: right;
+    margin-right: 5%;
+    margin-top: 0%;
+    /* border-bottom-right-radius: 10%;
+    border-top-right-radius: 10%; */
+}
+.selectC2{
+    background-color: white;
+    width: 50%;
+    height: 5%;
+    margin-left: 25%;
+    margin-right: 50%;
+    /* border-radius: 15px; */
+}
+.position{
+    background-color: white;
+    width: 50%;
+    height: 5%;
+    margin-left: 25%;
+    margin-right: 50%;
+}
+.annuler{
+    background-color: #818181;
+    float: left;
+    margin-left: 30%;
+    margin-top: 2%;
+    font-size: 16px;
+}
+.dessiner{
+    background-color: #d8ac0f;
+    float: right;
+    margin-right: 30%;
+    margin-top: 2%;
+    font-size: 16px;
+}
+table tr td{
+    width: 150px;
+    height: 20px;
+    margin-top: 180px;
+    border: 1px solid white;
+    
+}   
